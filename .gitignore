@@ -10,3 +10,4 @@ __pycache__/
 ## Gradle :main project
 local_settings.json
 assets-gen
+.DS_Store
